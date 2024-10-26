@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "826947719413",
+    "firebase_url": "https://control-2-94f72-default-rtdb.firebaseio.com",
+    "project_id": "control-2-94f72",
+    "storage_bucket": "control-2-94f72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826947719413:android:cf6d95c4feffa87e7935bc",
+        "android_client_info": {
+          "package_name": "com.example.controle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826947719413-58rtfih04akvn58c7isd5nqlvoet74dl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0xSqQUKaCZm8n7iPYibxKeSF0WqcYVoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826947719413-58rtfih04akvn58c7isd5nqlvoet74dl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826947719413:android:71346bf53176848d7935bc",
+        "android_client_info": {
+          "package_name": "com.somon.bdcache"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826947719413-58rtfih04akvn58c7isd5nqlvoet74dl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0xSqQUKaCZm8n7iPYibxKeSF0WqcYVoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826947719413-58rtfih04akvn58c7isd5nqlvoet74dl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
