@@ -13,8 +13,8 @@ This project is a **real-time IoT monitoring system** that uses an ESP32 board i
 ## 🛠️ Tech Stack
 - **Hardware**: ESP32 microcontroller, sensors (e.g., temperature, humidity)
 - **Android Development**: Java
-- **Communication Protocol**: MQTT or HTTP (based on your setup)
-- **Backend**: Firebase (if used for data storage or notifications)
+- **Communication Protocol**: HTTP (based on your setup)
+- **Backend**: Firebase (for data storage and notifications)
 
 ## ⚙️ Setup and Installation
 
@@ -22,7 +22,6 @@ This project is a **real-time IoT monitoring system** that uses an ESP32 board i
 - ESP32 microcontroller and compatible sensors
 - Android Studio (for building the Android app)
 - Firebase account (if using Firebase for backend services)
-- MQTT broker (if using MQTT for communication)
 
 ### Steps
 1. **ESP32 Setup**:
