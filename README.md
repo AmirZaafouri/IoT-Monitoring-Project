@@ -50,6 +50,7 @@ This project is a **real-time IoT monitoring system** that uses an ESP32 board i
 ## 📷 Screenshots
 <!-- Add screenshots of your Android app or data visualization screens here -->
 ![Android App Screenshot](Screenshots/Controlle App.png)
+![Android App Screenshot](https://github.com/user-attachments/assets/22ece27d-6eb4-49cd-a3e3-5ade46ee06ac)
 
 ## 📝 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
