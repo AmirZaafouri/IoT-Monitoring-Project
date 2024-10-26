@@ -44,22 +44,16 @@ The project is intended for applications where monitoring of environmental condi
    - Power on the ESP32 and ensure it is connected to Wi-Fi.
    - Open the Android app, and you should start seeing data from the ESP32 sensors in real time.
 
-## 📂 Project Structure
-- **MachinTalks/**: Root directory containing the project files.
-- **src/**: Contains all source code for the Angular frontend.
-- **assets/**: Includes images and other assets used in the project.
+can finish this las part :## 📂 Project Structure
+- **ESP32_Code/**: Contains code to set up and run on the ESP32.
+- **Android_App/**: Source code for the Android app.
 - **README.md**: Project overview and instructions.
-- **Backend Repository**: The backend service is hosted in a separate repository: [MachinTalksBackend](https://github.com/mounakhattat/MachinTalksBackend).
 
 ## 📷 Screenshots
-![Performance Testing Interface](https://github.com/user-attachments/assets/22ece27d-6eb4-49cd-a3e3-5ade46ee06ac)  
-*Performance Testing Interface*
-
-![Report Generation](https://github.com/user-attachments/assets/8915d8a8-fa0c-4416-aca7-3234b5560bd9)  
-*Report Generation View*
-
-![Gas and Motion Detection](https://github.com/user-attachments/assets/7e45d181-30bd-4d84-98a8-d15b1318d41b)  
-*Gas and Motion Detection Screen*
+<!-- Add screenshots of your Android app or data visualization screens here -->
+![Android App Screenshot](https://github.com/user-attachments/assets/22ece27d-6eb4-49cd-a3e3-5ade46ee06ac)
+![Database and Data Fields](https://github.com/user-attachments/assets/8915d8a8-fa0c-4416-aca7-3234b5560bd9)
+![Gas and Motion Detection](https://github.com/user-attachments/assets/7e45d181-30bd-4d84-98a8-d15b1318d41b)
 
 ## 📝 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
