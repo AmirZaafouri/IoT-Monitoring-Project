@@ -32,7 +32,7 @@ This project is a **real-time IoT monitoring system** that uses an ESP32 board i
 2. **Android App Setup**:
    - Clone this repository:  
      ```bash
-     git clone https://github.com/yourusername/IoT-Monitoring-Project.git
+     git clone https://github.com/Amir0055/IoT-Monitoring-Project.git
      ```
    - Open the project in Android Studio.
    - Configure Firebase or MQTT settings as needed in the code.
