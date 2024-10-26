@@ -44,7 +44,7 @@ The project is intended for applications where monitoring of environmental condi
    - Power on the ESP32 and ensure it is connected to Wi-Fi.
    - Open the Android app, and you should start seeing data from the ESP32 sensors in real time.
 
-can finish this las part :## 📂 Project Structure
+## 📂 Project Structure
 - **ESP32_Code/**: Contains code to set up and run on the ESP32.
 - **Android_App/**: Source code for the Android app.
 - **README.md**: Project overview and instructions.
