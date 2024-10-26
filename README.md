@@ -52,7 +52,6 @@ This project is a **real-time IoT monitoring system** that uses an ESP32 board i
 ![Android App Screenshot](https://github.com/user-attachments/assets/22ece27d-6eb4-49cd-a3e3-5ade46ee06ac)
 ![base de donnée des champs de lecture et d’ecriture des différents](https://github.com/user-attachments/assets/8915d8a8-fa0c-4416-aca7-3234b5560bd9)
 ![Detection Des Gaz et Mouvement](https://github.com/user-attachments/assets/7e45d181-30bd-4d84-98a8-d15b1318d41b)
-![visualisaion en 3D de boitier à l’aide de logiciel de conception solidworks .](https://github.com/user-attachments/assets/c69f24bf-57ea-43c6-a77d-ae8e2622510b)
 
 
 
