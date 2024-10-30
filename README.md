@@ -16,7 +16,7 @@ The project is intended for applications where monitoring of environmental condi
 ## 🛠️ Tech Stack
 - **Hardware**: ESP32 microcontroller, sensors (temperature, humidity, gas, motion detection)
 - **Android Development**: Java
-- **Communication Protocol**: HTTP (customizable for MQTT or Firebase)
+- **Communication Protocol**: HTTP (Firebase)
 - **Backend**: Firebase (optional, for data storage and notifications)
 
 ## ⚙️ Setup and Installation
