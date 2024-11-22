@@ -17,7 +17,7 @@ The project is intended for applications where monitoring of environmental condi
 - **Hardware**: ESP32 microcontroller, sensors (temperature, humidity, gas, motion detection)
 - **Android Development**: Java
 - **Communication Protocol**: HTTP (Firebase)
-- **Backend**: Firebase (optional, for data storage and notifications)
+- **Backend**: Firebase (for data storage and notifications)
 
 ## ⚙️ Setup and Installation
 
@@ -37,7 +37,7 @@ The project is intended for applications where monitoring of environmental condi
      git clone https://github.com/Amir0055/IoT-Monitoring-Project.git
      ```
    - Open the project in Android Studio.
-   - Configure Firebase or MQTT settings as needed in the code.
+   - Configure Firebase settings as needed in the code.
    - Build and run the app on an Android device or emulator.
 
 3. **Run and Test**:
